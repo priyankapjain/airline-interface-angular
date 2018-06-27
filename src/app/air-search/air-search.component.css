@@ -1,0 +1,59 @@
+.bdr_section_onway{
+    border: 1px solid gray;
+    border-radius: 15px 0px 0px 0px;
+    padding: 7px;
+    cursor: pointer;
+}
+.bdr_section-return{
+    border: 1px solid gray;
+    border-radius: 0px 15px 0px 0px;
+    padding: 7px;
+    cursor: pointer;
+}
+.bgClorSection{
+    background-color:skyblue;
+}
+.search-display-section{
+    border:1px solid gray;
+    padding:25px;
+}
+.row{
+    padding-top:12px;
+}
+.search_btn{
+    height: 30px;
+    width: 86px;
+    border-radius: 4px;
+    background: #03a9f44a
+}
+.invalid_msg{
+    color:red;
+}
+.refine_flight_search{
+    border:1px solid gray;
+    margin-top:25px;
+    padding: 21px;
+}
+
+nouislider.ng2-nouislider{
+    width: 86%;
+    margin-left: 21px;
+}
+.mrgn-left-21{
+    margin-left: 28px;
+}
+.form_search{
+    border: 1px solid gray;
+    padding: 21px;
+}
+.max_range{
+    margin-left:137px;
+}
+.source_select{
+    height:25px;
+    width:98%;
+}
+.destination_select,.passenger_select{
+    height:25px;
+    width:98%;
+}

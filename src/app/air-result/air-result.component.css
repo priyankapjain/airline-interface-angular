@@ -1,0 +1,42 @@
+.mrgn-left-9{
+    margin-left:9px;
+    margin-right: 9px;
+}
+.search_result_source{
+    border:1px solid gray;
+}
+.dates_display{
+    padding-left:205px;
+}
+
+.search_data_result{
+    border:1px solid gray;
+}
+.flight_img{
+    height: 152px;
+    width: 119px;
+    border: 1px solid gray;
+}
+.btn-book{
+    width: 125px;
+    padding: 10px;
+    border-radius: 7px;
+    background: #e7f2fe;
+}
+
+.return_flight{
+    margin-top:55px;
+}
+
+.no_data{
+    border: 1px solid gray;
+    padding: 24px;
+    color: #E91E63;
+    height: 600px;
+}
+
+.starting_info{
+  text-align: center;
+  padding:25px;
+  color:rgb(9, 49, 65);
+}
